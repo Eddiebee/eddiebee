@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eddie Otudor</h1>
-<h3 align="center">A radiant software engineer from Nigeria</h3>
+<h3 align="center">A Radiant product-minded Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/eddie_otudor" target="blank"><img src="https://img.shields.io/twitter/follow/eddie_otudor?logo=twitter&style=for-the-badge" alt="eddie_otudor" /></a> </p>
 
